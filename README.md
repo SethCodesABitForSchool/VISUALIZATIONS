@@ -1,5 +1,5 @@
-# Assignment1
-ECON4490
+# ECONOMETRICS FOR MONETARY POLICY ANALYSIS
+Reference Codes
 
 # remove
 rm(plot_data_monthly)
